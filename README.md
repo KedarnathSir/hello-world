@@ -1,2 +1,5 @@
 # hello-world
-The Hello World project is a time-honored tradition in computer programming. Let us get started with GitHub
+
+Hi, Kedarnath
+I am a fond of Bootstrap for better client side and Java middle tier and Server Side Technologies.
+I am a good hand on Core Java Technologies too.
